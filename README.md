@@ -4,7 +4,7 @@
 
 
 1.	빌드 결과물
-  https://drive.google.com/file/d/1usYfVLuApHgWVbGh8hsr6dnoAZ4XMPYF/view?usp=share_link
+  https://drive.google.com/file/d/1591laLnTaIISNQMZ3SI4Y-CFZX_AAr3c/view?usp=share_link
 
 2.	추가 구현기능
 
