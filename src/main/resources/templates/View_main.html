@@ -254,6 +254,9 @@ function ask_blog(sApiType, sQuery, sSort, sPageNum){
 
 				ask_keyword(sQuery);
 				sLastQuery = sQuery;
+
+				if(res.bSubApi===true) 
+					alert("선택하신 검색소스에 문제가 있어 다른 검색소스로 검색한 결과입니다.");
 			}
 		}
 	});
