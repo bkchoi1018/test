@@ -23,7 +23,7 @@
  
  *** openai api key를 깃에 퍼블릭으로 올리게될경우 api key가 자동으로 사용불가됩니다. 테스트를 위해서 src\main\kotlin\com\example\test\config\ApiConfig.kt 
  파일의 fun keyOpenAiApi():String = "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" 값을 
-  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 로 변경해서 실행부탁드립니다.
+  "sk-mW4EnvN227tEagLHZzTGT3BlbkFJWZweiIHhCH육ntOOu0k02" 로 변경해서 실행부탁드립니다.(육 대신 6 으로)
   
   실행가능파일은 사용할 수 있는 다른api키로 넣어놨습니다.
 
