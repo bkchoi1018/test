@@ -6,6 +6,13 @@
 1.	빌드 결과물
   https://drive.google.com/file/d/1591laLnTaIISNQMZ3SI4Y-CFZX_AAr3c/view?usp=share_link
 
+  실행 : java -jar kakaobank.jar
+  
+  실행후 접속 주소 : http://127.0.0.1:8080/
+  
+
+
+
 2.	추가 구현기능
 
  A.	연관검색어 기능 추가(/api/keyword)
@@ -14,6 +21,8 @@
   
   ii.	자세한 내용은 API명세 참조
  
+
+
 
 3.	외부라이브러리 및 오픈소스 사용 목적 명시
  
