@@ -7,6 +7,7 @@
   https://drive.google.com/file/d/1usYfVLuApHgWVbGh8hsr6dnoAZ4XMPYF/view?usp=share_link
 
 2.	추가 구현기능
+  
   A.	연관검색어 기능 추가(/api/keyword)
     i.	질의어에 대한 OpenAi Api를 사용하여 최근 이슈가되고 있는 ChatGpt 모델을 이용해 질의어에 대한 연관검색어를 추천받아 응답해줌. 
     ii.	자세한 내용은 API명세 참조
